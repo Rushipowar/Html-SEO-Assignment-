@@ -1,0 +1,16 @@
+Benefits of Meta Tags:
+
+    - SEO Optimization: allow to define how your webpage appears in search engine result.
+    - Improved Click-Through Rates(CTR): well crafted meta description can entice Users
+      to click on your search result. Increase leading to more organic traffic.
+    - Better User Experience: Help to user quickly understand webpage.
+    - Social Media Sharing: Meta tags enable you to control, how your content appearse when
+      shared on social media. 
+    - Structured Data: Some meta tags provide structured data to search engine. With this 
+      display information about webpage.
+    - Website Branding: By authorship establish your website brand and authorial authority.
+    - Security: Enhance your website security by preventing content type.
+    - Accessibility: Meta tags help to make your website more accessible.
+    - Analytics and Tracking: some tags provide Analytics and Tracking tools for gather data
+      about the user behavior and traffic.
+    - Favicon: allow to show small icon in browser tab bar.
